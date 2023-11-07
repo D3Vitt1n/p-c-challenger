@@ -1,0 +1,7 @@
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\obj\Debug\Metodo_de_pagamento_FLORESCENCIA.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\obj\Debug\Metodo_de_pagamento_FLORESCENCIA.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\bin\Debug\Metodo_de_pagamento_FLORESCENCIA.exe.config
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\bin\Debug\Metodo_de_pagamento_FLORESCENCIA.exe
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\bin\Debug\Metodo_de_pagamento_FLORESCENCIA.pdb
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\obj\Debug\Metodo_de_pagamento_FLORESCENCIA.exe
+C:\Users\samue\source\repos\Metodo_de_pagamento_FLORESCENCIA\Metodo_de_pagamento_FLORESCENCIA\obj\Debug\Metodo_de_pagamento_FLORESCENCIA.pdb
